@@ -1,0 +1,17 @@
+﻿  block.cpp
+D:\UNI\VS 22\TetrisGame\block.cpp(61,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  blocks.cpp
+  colors.cpp
+  game.cpp
+  grid.cpp
+  position.cpp
+  main.cpp
+D:\UNI\VS 22\TetrisGame\main.cpp(58,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UNI\VS 22\TetrisGame\main.cpp(65,51): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 443 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TetrisGame.vcxproj -> D:\UNI\VS 22\TetrisGame\x64\Release\TetrisGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
